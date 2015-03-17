@@ -1,6 +1,6 @@
 # word_finder
 
-Answer to the 2 hour test applied for Ruby Developer candidates of Fusioneer company.
+Answer to the *2 hour test* applied for Ruby Developer candidates of Fusioneer company.
 
 ##The problem:
 
